@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/nracetrack.iml" filepath="$PROJECT_DIR$/nracetrack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nracetrack-grailsPlugins.iml" filepath="$PROJECT_DIR$/nracetrack-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
